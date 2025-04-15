@@ -102,19 +102,6 @@ docker logs openmanus-container
 docker exec openmanus-container env | grep API_KEY
 ```
 
-## .env
-```bash
-OPENAI_API_KEY=
-GEMINI_API_KEY=
-ANTHROPIC_API_KEY=
-PERPLEXITY_API_KEY=
-GROQ_API_KEY=
-DEEPSEEK_API_KEY=
-ACTIVE_MODEL=gemini
-SUPPORTED_MODELS=openai,gemini,claude,perplexity,groq,deepseek
-```
-
-
 ## License 📄
 MIT License - See [LICENSE](LICENSE)
 
