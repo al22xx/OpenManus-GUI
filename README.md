@@ -1,10 +1,8 @@
-```markdown
+markdown
 # OpenManus AI Assistant 🤖
 
 A multi-model AI assistant with GUI, supporting OpenAI, Gemini, Claude, DeepSeek, Groq, and Perplexity. Docker-containerized for easy deployment.
 
-![image alt](https://github.com/al22xx/OpenManus-GUI/blob/ae8487f88f415feb68849ed351501ea8de3b1fe1/Screenshot.png)
-![OpenManus Screenshot](Screenshot.png)
 ![OpenManus Screenshot](https://github.com/al22xx/OpenManus-GUI/blob/ae8487f88f415feb68849ed351501ea8de3b1fe1/Screenshot.png)
 
 
@@ -121,7 +119,7 @@ MIT License - See [LICENSE](LICENSE)
 ---
 
 **Note**: API usage may incur costs. Monitor your provider dashboards.
-```
+
 
 This README includes:
 1. Clear installation instructions
