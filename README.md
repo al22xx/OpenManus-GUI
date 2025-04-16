@@ -3,10 +3,7 @@
 
 A multi-model AI assistant with GUI, supporting OpenAI, Gemini, Claude, DeepSeek, Groq, and Perplexity. Docker-containerized for easy deployment.
 
-![OpenManus Screenshot](https://via.placeholder.com/800x400?text=OpenManus+GUI+Demo)
-
-
-<img width="1624" alt="Screenshot 2025-04-15 at 09 45 04" src="https://github.com/user-attachments/assets/6da311d6-0ca4-42db-aa88-ce343bfb655b" />
+![image alt](https://github.com/al22xx/OpenManus-GUI/blob/ae8487f88f415feb68849ed351501ea8de3b1fe1/Screenshot.png)
 
 
 
