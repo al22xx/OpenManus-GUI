@@ -1,4 +1,3 @@
-markdown
 # OpenManus AI Assistant 🤖
 
 A multi-model AI assistant with GUI, supporting OpenAI, Gemini, Claude, DeepSeek, Groq, and Perplexity. Docker-containerized for easy deployment.
@@ -67,14 +66,6 @@ PERPLEXITY_API_KEY=pplx-your-key-here
 http://localhost:7860
 ```
 
-## Usage 🚀
-'''bash
-# Start/restart the container
-./run.sh
-
-# Access GUI at:
-http://localhost:7860
-'''
 
 
 ### Basic Workflow
@@ -84,7 +75,7 @@ http://localhost:7860
 4. Type your query or upload files
 5. Click "Generate Response"
 
-![Workflow Demo](https://youtu.be/VwZLocI63Aw)
+[Workflow Demo](https://youtu.be/VwZLocI63Aw)
 
 ## Customization 🎨
 Modify `gui.py` to:
