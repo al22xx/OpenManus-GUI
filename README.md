@@ -5,6 +5,11 @@ A multi-model AI assistant with GUI, supporting OpenAI, Gemini, Claude, DeepSeek
 
 ![OpenManus Screenshot](https://via.placeholder.com/800x400?text=OpenManus+GUI+Demo)
 
+
+<img width="1624" alt="Screenshot 2025-04-15 at 09 45 04" src="https://github.com/user-attachments/assets/6da311d6-0ca4-42db-aa88-ce343bfb655b" />
+
+
+
 ## Features ✨
 - 🧠 **Multiple AI Models**: Switch between 6+ AI providers
 - 📁 **File Upload Support**: Process PDFs, Word docs, images, and archives
@@ -66,6 +71,16 @@ PERPLEXITY_API_KEY=pplx-your-key-here
 http://localhost:7860
 ```
 
+## Usage 🚀
+'''bash
+# Start/restart the container
+./run.sh
+
+# Access GUI at:
+http://localhost:7860
+'''
+
+
 ### Basic Workflow
 1. Select model from dropdown (⚙️ Settings)
 2. Enter/paste API key for selected model
@@ -73,7 +88,7 @@ http://localhost:7860
 4. Type your query or upload files
 5. Click "Generate Response"
 
-![Workflow Demo](https://via.placeholder.com/600x300?text=GUI+Interaction+Flow)
+![Workflow Demo](https://youtu.be/VwZLocI63Aw)
 
 ## Customization 🎨
 Modify `gui.py` to:
@@ -117,7 +132,6 @@ This README includes:
 4. Usage examples
 5. Troubleshooting section
 6. Responsive formatting for GitHub
-7. Sample .env file
 
 To use this:
 1. Create a `.env.example` file with placeholder keys
